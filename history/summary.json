@@ -4,9 +4,9 @@
     "url": "https://dev-foundry.tilcr.cloud/salud",
     "icon": "https://icons.duckduckgo.com/ip3/dev-foundry.tilcr.cloud.ico",
     "slug": "servicio-desarrollo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-28": 0
+    }
   },
   {
     "name": "Página de estado (desarrollo)",
     "url": "https://dev-foundry.tilcr.cloud/estado",
     "icon": "https://icons.duckduckgo.com/ip3/dev-foundry.tilcr.cloud.ico",
     "slug": "pagina-de-estado-desarrollo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
